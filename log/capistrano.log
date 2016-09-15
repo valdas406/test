@@ -1,7 +1,0 @@
-# Logfile created on 2016-09-15 14:02:51 +0300 by logger.rb/54362
-  INFO ---------------------------------------------------------------------------
-  INFO START 2016-09-15 14:02:51 +0300 cap stage deploy
-  INFO ---------------------------------------------------------------------------
- DEBUG [5ee8fade] Running /usr/bin/env git rev-parse --short origin/master as valdas@localhost
- DEBUG [5ee8fade] Command: /usr/bin/env git rev-parse --short origin/master
- DEBUG [5ee8fade] 	fatal: Needed a single revision

@@ -15,7 +15,7 @@
 # server list. The second argument is a, or duck-types, Hash and is
 # used to set extended properties on the server.
 
-server 'web1.stage.hometogo.rocks', user: 'zeam', roles: %w{app}
+server '10.10.29.11', user: 'zeam', roles: %w{app}
 
 
 # Custom SSH Options
