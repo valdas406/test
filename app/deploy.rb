@@ -2,7 +2,7 @@
 # lock '3.3.x'
 
 set :application, 'test'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :repo_url, 'git@github.com:valdas406/test.git'
 
 # Default branch is :master
 set :branch, :master
